@@ -1,0 +1,15 @@
+﻿  Source.cpp
+D:\00 Qsync\LMAD\Tercer semestre\Programación avanzada\PATercerParcial\PATercerParcial\Source.cpp(103,19): warning C4244: 'return': conversión de 'WPARAM' a 'int'; posible pérdida de datos
+D:\00 Qsync\LMAD\Tercer semestre\Programación avanzada\PATercerParcial\PATercerParcial\Source.cpp(336,24): warning C4244: 'inicializando': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+D:\00 Qsync\LMAD\Tercer semestre\Programación avanzada\PATercerParcial\PATercerParcial\Source.cpp(337,24): warning C4244: 'inicializando': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+D:\00 Qsync\LMAD\Tercer semestre\Programación avanzada\PATercerParcial\PATercerParcial\Source.cpp(338,24): warning C4244: 'inicializando': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+D:\00 Qsync\LMAD\Tercer semestre\Programación avanzada\PATercerParcial\PATercerParcial\Source.cpp(391,41): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+D:\00 Qsync\LMAD\Tercer semestre\Programación avanzada\PATercerParcial\PATercerParcial\Source.cpp(461,23): warning C4244: 'inicializando': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+D:\00 Qsync\LMAD\Tercer semestre\Programación avanzada\PATercerParcial\PATercerParcial\Source.cpp(472,59): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\00 Qsync\LMAD\Tercer semestre\Programación avanzada\PATercerParcial\PATercerParcial\Source.cpp(507,39): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+D:\00 Qsync\LMAD\Tercer semestre\Programación avanzada\PATercerParcial\PATercerParcial\Source.cpp(508,45): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+D:\00 Qsync\LMAD\Tercer semestre\Programación avanzada\PATercerParcial\PATercerParcial\Source.cpp(509,59): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\00 Qsync\LMAD\Tercer semestre\Programación avanzada\PATercerParcial\PATercerParcial\Source.cpp(544,45): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+D:\00 Qsync\LMAD\Tercer semestre\Programación avanzada\PATercerParcial\PATercerParcial\Source.cpp(545,59): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\00 Qsync\LMAD\Tercer semestre\Programación avanzada\PATercerParcial\PATercerParcial\Source.cpp(450,10): warning C4101: 'valorFinal': variable local sin referencia
+  PATercerParcial.vcxproj -> D:\00 Qsync\LMAD\Tercer semestre\Programación avanzada\PATercerParcial\x64\Debug\PATercerParcial.exe
